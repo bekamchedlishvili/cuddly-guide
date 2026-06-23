@@ -45,5 +45,21 @@ body {
   height: 53px;
   font-size: 10px;
   color: #707070;
-  aligment: left;
+  text-align: left;
+}
+.article-middle {
+}
+.articles {
+  img {
+    display: inline-block;
+    max-width: 250px;
+    width: 96%;
+  }
+  display: inline-block;
+  p {
+    display: inline-block;
+    align-items: top;
+    font-size: 12px;
+    color: #707070;
+  }
 }
